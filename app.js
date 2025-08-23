@@ -1,6 +1,6 @@
 // 1) CAMBIAR EL TEXTO DEL <h1> A "Hora del DEsafio"
-const titulo = document.qujerySelector('h1');  // Busca la etiqueta <h1> en el HTML
-titulo.testContent = 'Hora del DEsafio';   // Le pone este texto
+const titulo = document.querySelector('h1');  // Busca la etiqueta <h1> en el HTML
+titulo.textContent = 'Hora del Desafio';   // Le pone este texto
 
 //2) BOTÓN "Console" mostrar un mensaje en la consola
 function mostrarEnConsola() {
