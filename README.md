@@ -1,4 +1,16 @@
-# 🕒 Hora del Desafío
+
+# ⏰ Hora del Desafío
+
+[![Proyecto: Hora del Desafío](https://img.shields.io/badge/Proyecto-Hora%20del%20Desafío-purple)](https://github.com/badolgm/js-curso-2)
+[![Licencia MIT + CC](https://img.shields.io/badge/Licencia-MIT%20+%20CC-blue)](./LICENSE)
+[![Stack HTML](https://img.shields.io/badge/Stack-HTML-orange)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![Stack CSS](https://img.shields.io/badge/Stack-CSS-blue)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![Stack JS](https://img.shields.io/badge/Stack-JS-yellow)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Alura One](https://img.shields.io/badge/Powered%20by-Alura%20ONE-green)](https://www.aluracursos.com/)
+
+---
+
+
 
 ![Proyecto][badge-project] ![License][badge-license] ![Made-With][badge-tech]
 
