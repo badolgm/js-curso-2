@@ -5,8 +5,11 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Hora del Desafío</title>
 
+  <!-- Descripción para SEO y redes sociales -->
+  <meta name="description" content="Proyecto Hora del Desafío: práctica de HTML, CSS y JavaScript con estilo moderno y avatar IA.">
+
   <!-- Font Awesome para iconos -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" />
 
   <link rel="stylesheet" href="style.css" />
 </head>
@@ -17,22 +20,35 @@
       <p class="sub">Aprendiendo lógica con JavaScript — Alura One</p>
     </div>
     <div class="avatar-wrap">
-      <img src="assets/ia.png" alt="Avatar IA" class="avatar" />
+      <img src="assets/ia.png" alt="Avatar del proyecto Hora del Desafío" class="avatar" />
     </div>
   </header>
 
   <main class="container">
-    <div class="controls">
+    <section class="controls">
       <button class="btn btn-neon-green" id="btn-console"><i class="fa-solid fa-terminal"></i> Console</button>
       <button class="btn btn-neon-purple" id="btn-alert"><i class="fa-solid fa-bell"></i> Alert</button>
       <button class="btn btn-neon-green" id="btn-prompt"><i class="fa-solid fa-comment-dots"></i> Prompt</button>
       <button class="btn btn-neon-purple" id="btn-sum"><i class="fa-solid fa-plus"></i> Suma</button>
-    </div>
+    </section>
 
     <!-- Toast / resultado -->
     <div id="toast" class="toast hidden"></div>
   </main>
 
   <script src="app.js"></script>
+
+
+  <footer class="footer">
+    <p>Proyecto desarrollado con apoyo de 
+      <a href="https://www.aluracursos.com/" target="_blank" class="alura-link">
+        Alura ONE
+      </a>
+    </p>
+  </footer>
+</body>
+</html>
+
+
 </body>
 </html>
