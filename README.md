@@ -12,8 +12,6 @@
 
 
 
-![Proyecto][badge-project] ![License][badge-license] ![Made-With][badge-tech]
-
 <div align="center">
   <img alt="Avatar IA" src="assets/ia.png" width="320" />
 </div>
